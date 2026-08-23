@@ -1,7 +1,7 @@
-# custom_404_page
-This is my very first web project. In this project, i tried to build a very simple custom 404 page(just the frontend). It's responsive accross mobile, and desktop.
+# Reusable-UI-Components
 
-used things like css flexbox, transition and media query.
+This is a collection of fully responsive UI components made from scratch using vanilla html and css. No react, no other framework. These components can be ported to any project later or it can be used as a reference.
+
 
 # Screenshot
-![Screenshot](assets/404_page.png)
+![Screenshot](custom_404_page/assets/404_page.png)
